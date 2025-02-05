@@ -131,7 +131,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or support, please contact:
 
-- **Name**: Akshay Kumar Hiran  
-- **Email**: akshaykumarhiran2@gmail.com 
-- **LinkedIn**: [Akshay Kumar Hiran]([https://www.linkedin.com/in/akshaykumar3294/])
+- **Name**: Akshat Sharma  
+- **Email**: akshatsharma0610@gmail.com 
+- **LinkedIn**: [Akshat Sharma]([https://www.linkedin.com/in/akshat-sharma-b56696212/])
 

@@ -62,7 +62,7 @@ function Footor() {
             <h3 className="text-lg font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
               <a
-                href="https://facebook.com"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:scale-110 transition transform text-white"
@@ -70,7 +70,7 @@ function Footor() {
                 <FaFacebook className="w-6 h-6" />
               </a>
               <a
-                href="https://twitter.com"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:scale-110 transition transform text-white"
@@ -78,7 +78,7 @@ function Footor() {
                 <FaTwitter className="w-6 h-6" />
               </a>
               <a
-                href="https://instagram.com"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:scale-110 transition transform text-white"
@@ -86,7 +86,7 @@ function Footor() {
                 <BsInstagram className="w-6 h-6" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:scale-110 transition transform text-white"
@@ -94,7 +94,7 @@ function Footor() {
                 <FaLinkedin className="w-6 h-6" />
               </a>
               <a
-                href="https://github.com"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:scale-110 transition transform text-white"
@@ -111,10 +111,10 @@ function Footor() {
         {/* Bottom Section */}
         <div className="text-center text-sm space-y-2">
           <div>
-            © {new Date().getFullYear()} Atobtech Solutions. All rights
+            © {new Date().getFullYear()} Trippod. All rights
             reserved.
           </div>
-          <div>Designed and Developed by Akshay Kumar Hiran & Team</div>
+          <div>Designed and Developed by Akshat Sharma</div>
         </div>
       </div>
     </footer>
